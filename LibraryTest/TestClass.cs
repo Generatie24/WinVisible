@@ -12,5 +12,10 @@ namespace LibraryTest
         {
             return name + " OK";
         }
+
+        public string Show1(string name)
+        {
+            return name + " OK1";
+        }
     }
 }
